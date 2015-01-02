@@ -40,7 +40,7 @@ ApplicationWindow {
             }
             text: "Paragraphs:"
             font.family: "Helvetica"
-            font.pixelSize: 40
+            font.pixelSize: 50
             color: "#000000"
         }
 
@@ -53,7 +53,7 @@ ApplicationWindow {
             }
             width: 240
             font.family: "Helvetica"
-            font.pixelSize: 40
+            font.pixelSize: 50
             color: "#000000"
             focus: true
             text: qsTr("4")
@@ -70,7 +70,7 @@ ApplicationWindow {
             Text {
                 anchors.centerIn: parent
                 text: "Beer me!"
-                font.pixelSize: 40
+                font.pixelSize: 50
                 font.family: "Helvetica"
             }
             MouseArea {
