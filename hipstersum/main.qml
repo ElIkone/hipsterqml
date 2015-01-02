@@ -87,7 +87,6 @@ ApplicationWindow {
                         // console.log("Reply got an error:", reply.status)
                         _Text_Main.text = "Couldn't retrieve ip"
                     })
-                    console.log(_Text_Input.text)
                 }
             }
         }
