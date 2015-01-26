@@ -1,0 +1,25 @@
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/gen/org/qtproject/example/hipstersum/R.java \
+ : /Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/drawable-ldpi/icon.png \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/layout/splash.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values/libs.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-de/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-el/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-es/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-et/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-fa/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-fr/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-id/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-it/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-ja/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-ms/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-nb/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-nl/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-pl/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-pt-rBR/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-ro/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-rs/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-ru/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-zh-rCN/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/res/values-zh-rTW/strings.xml \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/AndroidManifest.xml \

@@ -1,0 +1,2 @@
+module Panasonic.Pif
+plugin fake-pif

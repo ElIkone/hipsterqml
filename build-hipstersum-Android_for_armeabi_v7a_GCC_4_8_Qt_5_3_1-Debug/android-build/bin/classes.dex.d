@@ -1,0 +1,27 @@
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes.dex : \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/example/hipstersum/BuildConfig.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/example/hipstersum/R$array.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/example/hipstersum/R$attr.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/example/hipstersum/R$drawable.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/example/hipstersum/R$layout.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/example/hipstersum/R$string.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/example/hipstersum/R.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$1.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$2.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1$1.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$4.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$5.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$6.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtActivity.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtApplication$InvokeResult.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/classes/org/qtproject/qt5/android/bindings/QtApplication.class \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/dexedLibs/QtAndroid-bundled-203fc9a6fa095e9a0ff2b7c7d700b856.jar \
+/Users/benjamin/Development/git/hipsterqml/build-hipstersum-Android_for_armeabi_v7a_GCC_4_8_Qt_5_3_1-Debug/android-build/bin/dexedLibs/QtAndroidAccessibility-bundled-ee697fe7ec6300d3e411e4c7f329a1bb.jar \
